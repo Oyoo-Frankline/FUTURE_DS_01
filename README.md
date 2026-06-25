@@ -1,4 +1,7 @@
 Business Sales Performance Dashboard
+
+images/<img width="1459" height="751" alt="image" src="https://github.com/user-attachments/assets/ab447e3e-ac38-470c-842e-7dca5d22c17d" />
+
 Project Overview
 
 This project was completed as part of the Future Interns Data Science & Analytics Internship (Task 1: Business Sales Performance Analytics).
@@ -148,12 +151,6 @@ Expand marketing efforts in high-performing European markets.
 Focus promotional campaigns on top-selling products.
 Reduce over-reliance on the United Kingdom market by diversifying internationally.
 Strengthen customer retention initiatives for high-value customers.
-
-Dashboard Preview
-
-images/<img width="730" height="376" alt="image" src="https://github.com/user-attachments/assets/07122f22-7806-47bb-b14d-158895e24044" />
-
-
 
 Conclusion
 
