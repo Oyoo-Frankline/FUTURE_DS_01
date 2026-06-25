@@ -151,6 +151,9 @@ Strengthen customer retention initiatives for high-value customers.
 
 Dashboard Preview
 
+images/<img width="670" height="368" alt="image" src="https://github.com/user-attachments/assets/3a38ab4a-a32c-4bd3-8310-cbb5a96e70c5" />
+
+
 Conclusion
 
 This project demonstrates the complete data analytics workflow, including data cleaning, exploratory data analysis, business insight generation, and dashboard development.
