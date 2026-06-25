@@ -160,8 +160,3 @@ This project demonstrates the complete data analytics workflow, including data c
 
 The analysis transformed raw transactional data into actionable business intelligence, enabling informed decision-making regarding product strategy, regional expansion, and revenue growth opportunities.
 
-Author
-
-Frankline Oyoo
-
-Data Science & Analytics Intern – Future Interns
