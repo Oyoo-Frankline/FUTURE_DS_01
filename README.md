@@ -4,7 +4,7 @@ images/<img width="1459" height="751" alt="image" src="https://github.com/user-a
 
 Project Overview
 
-This project was completed as part of the Future Interns Data Science & Analytics Internship (Task 1: Business Sales Performance Analytics).
+This project focuses on business sales performance analytics, using data cleaning, exploratory data analysis, and interactive dashboards to identify revenue trends, top-selling products, high-value categories, and regional performance.
 
 The objective was to analyze retail sales transaction data to identify:
 
